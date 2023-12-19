@@ -5,7 +5,7 @@
 
 .banner .content {
   height: 421px;
-  background: url(../images/banner2_20190819_210028.png) no-repeat top center;
+  background: url(../images/banner1_20190819_210028.png) no-repeat top center;
 }
 
 .banner .content .subnav {
@@ -56,6 +56,7 @@
 .banner .content .course .bd {
   padding: 0 20px;
 }
+
 .banner .content .course .bd li {
   padding: 15px 0;
   border-bottom: 1px solid #eaeaea;
