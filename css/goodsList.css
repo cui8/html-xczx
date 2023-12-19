@@ -21,7 +21,7 @@
 }
 
 .box .box-bd ul {
-  width: 1225px;
+  width: 1215px;
 }
 
 .box .box-bd .item {
@@ -44,8 +44,7 @@
 }
 
 .box .box-bd .item .info {
-  margin: 0 20px 0 25px;
-  margin-left: 23px;
+  margin: 0 20px 0 23px;
   font-size: 12px;
   color: #999999;
 }
