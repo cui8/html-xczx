@@ -1,5 +1,5 @@
 .header {
-  overflow: hidden;
+  overflow: hidden; /* 解决嵌套块元素垂直外边距的塌陷 */
   height: 100px;
   /* background-color: #333; */
 }
