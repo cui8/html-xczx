@@ -1,0 +1,38 @@
+.goods {
+  height: 60px;
+  margin-top: 8px;
+  box-shadow: 0 2px 3px 3px rgba(0, 0, 0, .1);
+  background-color: #fff;
+  line-height: 60px;
+}
+
+.goods h3 {
+  float: left;
+  padding: 0 33px;
+  font-size: 16px;
+  color: #00a4ff;
+}
+
+.goods ul {
+  float: left;
+}
+
+.goods ul li {
+  float: left;
+  font-size: 16px;
+  color: #050505;
+}
+
+.goods ul li a {
+  padding: 0 33px;
+  border-left: 1px solid #bfbfbf;
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.goods .mod {
+  float: right;
+  margin-right: 25px;
+  font-size: 14px;
+  color: #00a4ff;
+}
